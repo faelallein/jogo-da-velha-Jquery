@@ -1,0 +1,82 @@
+#central {
+  width: 400px;
+  height: 400px;
+  border: 2px solid rgba(0, 0, 2, 0.7);
+  align-items: center; }
+
+#dvmain {
+  width: 182px;
+  height: 185px;
+  position: relative;
+  left: 100px;
+  display: table;
+  align: center;
+  border: none; }
+
+.btgame {
+  width: 60px;
+  height: 60px;
+  font-size: 58px;
+  background-color: #fff; }
+
+#btgame0 {
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-top: none;
+  border-left: none; }
+
+#btgame1 {
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-top: none;
+  border-left: 3px solid black; }
+
+#btgame2 {
+  border-right: none;
+  border-bottom: 3px solid black;
+  border-top: none;
+  border-left: 3px solid black; }
+
+#btgame3 {
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-top: 3px solid black;
+  border-left: none; }
+
+#btgame4 {
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-top: 3px solid black;
+  border-left: 3px solid black; }
+
+#btgame5 {
+  border-right: none;
+  border-bottom: 3px solid black;
+  border-top: 3px solid black;
+  border-left: 3px solid black; }
+
+#btgame6 {
+  border-right: 3px solid black;
+  border-bottom: none;
+  border-top: 3px solid black;
+  border-left: none; }
+
+#btgame7 {
+  border-right: 3px solid black;
+  border-bottom: none;
+  border-top: 3px solid black;
+  border-left: 3px solid black; }
+
+#btgame8 {
+  border-right: none;
+  border-bottom: none;
+  border-top: 3px solid black;
+  border-left: 3px solid black; }
+
+.text {
+  left: 120px;
+  position: relative;
+  font-size: 25px;
+  font-style: oblique; }
+
+/*# sourceMappingURL=style.css.map */
